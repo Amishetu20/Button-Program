@@ -1,2 +1,2 @@
 # Button-Program
-clicking on a button to t5rigger adding a list item
+clicking on a button to trigger adding a list item
